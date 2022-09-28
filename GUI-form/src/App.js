@@ -5,7 +5,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { validPartnerIds } from "./utils";
 //Components
-import Header from "./components/Header";
+import Header from "./components/Header.tsx";
 import Authorization from "./components/Authorization";
 import PartnerIDs from "./components/PartnerIDs";
 import CountryCode from "./components/CountryCode";

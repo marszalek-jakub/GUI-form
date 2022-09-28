@@ -10,6 +10,10 @@
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "@types/jest": "^29.0.3",
+    "@types/node": "^18.7.23",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
     "axios": "^0.24.0",
     "dotenv": "^16.0.2",
     "lodash": "^4.17.21",
@@ -22,6 +26,7 @@
     "react-use-sessionstorage": "^1.0.2",
     "reset-css": "^5.0.1",
     "styled-components": "^5.3.3",
+    "typescript": "^4.8.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
